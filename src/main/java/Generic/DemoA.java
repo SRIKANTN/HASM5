@@ -10,6 +10,7 @@ public class DemoA
 	{
 		Reporter.log("Github",true);
 		Reporter.log("GithubSuper",true);
+		Reporter.log("GithubSuper",true);
 	}
 	
 
