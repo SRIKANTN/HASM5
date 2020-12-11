@@ -9,6 +9,8 @@ public class DemoA
 	public void tc_01()
 	{
 		Reporter.log("Github",true);
+		Reporter.log("GithubSuper",true);
+		Reporter.log("GithubSuper",true);
 	}
 	
 
